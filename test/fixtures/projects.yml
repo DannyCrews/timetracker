@@ -10,6 +10,6 @@ projectxyz:
   default_rate: 60
 
 secondproj:
-  name: Second Project
+  name: Second Proj
   company: abcltd
   default_rate: 125
